@@ -11,7 +11,7 @@ Python · C++ · Java
 
 Featured Projects
 
-Android Auction Application
+### [Android Auction Application](https://github.com/Dvir7845/bid2)
 
 An auction application developed in Java as part of a two-person team.
 
@@ -21,7 +21,7 @@ Used Firebase for backend services and data storage.
 
 Technologies: Java, Android, Firebase
 
-Encrypted File Transfer System
+### [Encrypted File Transfer System](https://github.com/Dvir7845/encrypted-file-transfer)
 
 An individual project implementing a C++ client and a Python server for encrypted file transfer.
 
