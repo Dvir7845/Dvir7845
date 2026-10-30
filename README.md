@@ -32,7 +32,6 @@ Integrated encryption, file integrity verification, and retry handling.
 Used an SQL database to persist client and file metadata.
 
 Technologies: C++, Python, SQL, Sockets
-Repository coming soon.
 
 Contact
 
