@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I'm Dvir Yarden
 
-<!--
-**Dvir7845/Dvir7845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science B.Sc. student at The Open University of Israel, awaiting final grades.
+Current GPA: 87/100
 
-Here are some ideas to get you started:
+I'm seeking my first software development role, with a focus on backend development. My academic projects include client–server applications, encrypted file transfer, and Android development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages
+
+Python · C++ · Java
+
+Featured Projects
+
+Android Auction Application
+
+An auction application developed in Java as part of a two-person team.
+
+Built client and server components.
+
+Used Firebase for backend services and data storage.
+
+Technologies: Java, Android, Firebase
+
+Encrypted File Transfer System
+
+An individual project implementing a C++ client and a Python server for encrypted file transfer.
+
+Implemented socket communication and a custom messaging protocol.
+
+Integrated encryption, file integrity verification, and retry handling.
+
+Used an SQL database to persist client and file metadata.
+
+Technologies: C++, Python, SQL, Sockets
+Repository coming soon.
+
+Contact
+
+Email dviryarden@gmail.com
